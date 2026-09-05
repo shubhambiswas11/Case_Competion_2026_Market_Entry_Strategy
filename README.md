@@ -105,3 +105,6 @@ Using a **2×2 positioning matrix** (Reactive vs Predictive, Consumer vs Clinica
 - **Customer Metrics:** CAC $40, 22% CAGR, 0.72 digital readiness  
 
 ---
+## 📄 Full Presentation
+You can view the complete case deck here:  
+[Case Competition 2026 – Market Entry Strategy](Case_Competion_2026_Market_Entry_Strategy.pdf)
